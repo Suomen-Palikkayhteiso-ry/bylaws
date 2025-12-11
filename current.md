@@ -9,6 +9,7 @@ Yhdistyksen nimi on Suomen Palikkayhteisö ry ja sen kotipaikka on Seinäjoki.
 Yhdistyksen tarkoituksena on edistää LEGO-harrastusta Suomessa. Tarkoituksensa toteuttamiseksi yhdistys ylläpitää harrastajien keskusteluyhteisöä, järjestää monenlaista toimintaa jäsenilleen, tarjoaa jäsenilleen etuja, sekä järjestää tapahtumia.
 
 Tarkoituksensa toteuttamiseksi yhdistys:
+
 - voi järjestää kursseja, harjoitus- ja opetustilaisuuksia sekä muuta vastaavaa toimintaa
 - voi järjestää kilpailuja, näytöksiä, retkiä, leirejä ja muita tapahtumia
 - voi järjestää juhlia, konsertteja, näyttelyitä tai muita tilaisuuksia
@@ -24,6 +25,7 @@ Tarkoituksensa toteuttamiseksi yhdistys:
 - toimii yhteistyössä viranomaisten, järjestöjen, yritysten ja yksityishenkilöiden kanssa
 
 Toimintansa tukemiseksi yhdistys voi, hankittuaan tarvittaessa asianomaisen luvan:
+
 - järjestää myyjäisiä, kirpputori- ja muita tapahtumia
 - järjestää maksullisia tilaisuuksia
 - ottaa vastaan avustuksia, lahjoituksia ja testamentteja
@@ -72,15 +74,16 @@ Yhdistyksen kokouksissa on jokaisella jäsenellä yksi ääni. Yhdistyksen kokou
 Hallituksen on kutsuttava yhdistyksen kokoukset koolle vähintään 7 vuorokautta ennen kokousta.
 
 Kokouskutsu on lähetettävä jäsenille:
+
 - yhdistyksen verkkosivulla tai yhdistyksen käyttämän sosiaalisen median ryhmässä
 
 ## 10. Vuosikokous
 
 Yhdistyksen vuosikokouksessa käsitellään seuraavat asiat:
+
 1. kokouksen avaus
 2. valitaan kokouksen puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
-3. todetaan
-kokouksen laillisuus ja päätösvaltaisuus
+3. todetaan kokouksen laillisuus ja päätösvaltaisuus
 4. hyväksytään kokouksen työjärjestys
 5. esitetään tilinpäätös, vuosikertomus ja toiminnantarkastajien/tilintarkastajien lausunto
 6. päätetään tilinpäätöksen vahvistamisesta ja vastuuvapauden myöntämisestä hallitukselle ja muille vastuuvelvollisille

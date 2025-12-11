@@ -1,0 +1,22 @@
+# Generated files
+*.rej
+*.orig
+??.md
+
+# LaTeX auxiliary files
+current.tex
+final.md
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.pdf
+*.synctex.gz
+
+# Devenv
+.devenv*
+
+# References
+references/
+
