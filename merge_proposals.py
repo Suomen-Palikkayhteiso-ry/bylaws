@@ -9,11 +9,11 @@ def read_file(path):
 def main():
     try:
         base_text = read_file('current.md')
-        
-        proposals = ['00', '01', '02', '03']
-        
+
+        proposals = sys.argv[1:]
+
         dmp = dmp_module.diff_match_patch()
-        
+
         patches = []
         for proposal_num in proposals:
             proposal_file = f'{proposal_num}.md'

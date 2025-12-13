@@ -2,8 +2,8 @@
 
 SHELL = /usr/bin/env bash
 
-PROPOSALS = 00 01 02 03
-PROPOSALS_ALL = 00 $(PROPOSALS) final
+PROPOSALS = 00 05 01 02 03 04
+PROPOSALS_ALL = $(PROPOSALS) final
 PROPOSAL_FILES = $(patsubst %,%.md,$(PROPOSALS))
 PDF_DIFF_FILES = $(patsubst %,%-diff.pdf,$(PROPOSALS_ALL))
 PATCH_FILES = $(patsubst %,%.patch,$(PROPOSALS))
@@ -22,7 +22,7 @@ $(CURRENT_BYLAWS_LATEX): current.md listings-setup.tex
 # Merge proposals into a final version
 final.md: merge_proposals.py current.md $(PROPOSAL_FILES)
 	@echo "Generating final proposal..."
-	@devenv shell -- python3 merge_proposals.py
+	@devenv shell -- python3 merge_proposals.py $(PROPOSALS)
 
 # Generic rule for creating a .md file from a .patch file
 %.md: %.patch current.md
