@@ -2,7 +2,7 @@
 
 SHELL = /usr/bin/env bash
 
-PROPOSALS = 00 05 01 02 03 04
+PROPOSALS = 00 05 01 02 03 04 06
 PROPOSALS_ALL = $(PROPOSALS) final
 PROPOSAL_FILES = $(patsubst %,%.md,$(PROPOSALS))
 PDF_DIFF_FILES = $(patsubst %,%-diff.pdf,$(PROPOSALS_ALL))
