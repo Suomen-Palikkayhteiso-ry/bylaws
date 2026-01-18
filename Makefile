@@ -2,7 +2,7 @@
 
 SHELL = /usr/bin/env bash
 
-PROPOSALS = 00 05 01 02 03 04 06
+PROPOSALS = 00 05 01 02 03 04 06 07
 PROPOSALS_ALL = $(PROPOSALS) final
 PROPOSAL_FILES = $(patsubst %,%.md,$(PROPOSALS))
 PDF_DIFF_FILES = $(patsubst %,%-diff.pdf,$(PROPOSALS_ALL))
@@ -12,7 +12,7 @@ PATCH_FILES = $(patsubst %,%.patch,$(PROPOSALS))
 
 CURRENT_BYLAWS_LATEX = current.tex
 
-all: $(PROPOSAL_FILES) $(PDF_DIFF_FILES)
+all: $(PROPOSAL_FILES) $(PDF_DIFF_FILES) final.pdf
 
 # Generate LaTeX file from current bylaws
 $(CURRENT_BYLAWS_LATEX): current.md listings-setup.tex
@@ -33,6 +33,13 @@ final.md: merge_proposals.py current.md $(PROPOSAL_FILES)
 %.tex: %.md listings-setup.tex
 	@echo "Generating $@..."
 	@devenv shell -- bash -c "pandoc $< -s --include-in-header listings-setup.tex -o $@"
+
+# Generic rule for creating a .pdf file
+%.pdf: %.tex
+	@echo "Compiling $@..."
+	@devenv shell -- bash -c "pdflatex -interaction=nonstopmode $<"
+	@devenv shell -- bash -c "pdflatex -interaction=nonstopmode $<"
+	@devenv shell -- bash -c "pdflatex -interaction=nonstopmode $<"
 
 # Generic rule for creating a diff .tex file
 %-diff.tex: %.tex $(CURRENT_BYLAWS_LATEX)
