@@ -1,11 +1,11 @@
---- current.md	2025-12-10 23:28:18.482330362 +0200
-+++ 03.md	2025-12-14 18:47:57.857916998 +0200
-@@ -43,7 +43,15 @@
+--- current.md	2026-02-12 19:22:57.631331164 +0200
++++ 03.md	2026-02-12 19:34:23.764374287 +0200
+@@ -39,7 +39,15 @@
  
  Jäseniltä perittävän liittymismaksun ja vuotuisen jäsenmaksun suuruudesta päättää vuosikokous.
  
--## 5. Hallitus
-+## 5. Jäsenen eroaminen ja erottaminen
+-5. Hallitus
++5. Jäsenen eroaminen ja erottaminen
 +
 +Jäsenellä on oikeus erota yhdistyksestä ilmoittamalla siitä kirjallisesti hallitukselle tai sen puheenjohtajalle. Jäsen voi myös erota ilmoittamalla siitä yhdistyksen kokouksessa pöytäkirjaan merkittäväksi.
 +
@@ -13,52 +13,51 @@
 +
 +Jäsen katsotaan eronneeksi, jos hän ei ole kalenterivuoden loppuun mennessä maksanut vuodelle määrättyä jäsenmaksua.
 +
-+## 6. Hallitus
++6. Hallitus
  
  Yhdistyksen asioita hoitaa hallitus, johon kuuluu vuosikokouksessa valitut puheenjohtaja ja 2 - 10 muuta varsinaista jäsentä sekä 0 - 10 varajäsentä.
  
-@@ -51,15 +59,15 @@
+@@ -47,15 +55,15 @@
  
  Hallitus valitsee keskuudestaan varapuheenjohtajan sekä ottaa keskuudestaan tai ulkopuoleltaan sihteerin, rahastonhoitajan ja muut tarvittavat toimihenkilöt. Hallitus kokoontuu puheenjohtajan tai hänen estyneenä ollessaan varapuheenjohtajan kutsusta, kun he katsovat siihen olevan aihetta tai kun vähintään puolet hallituksen jäsenistä sitä vaatii. Hallitus on päätösvaltainen, kun vähintään puolet sen jäsenistä, puheenjohtaja tai varapuheenjohtaja mukaanluettuna on läsnä. Äänestykset ratkaistaan ehdottomalla ääntenenemmistöllä. Äänten mennessä tasan ratkaisee puheenjohtajan ääni, vaaleissa kuitenkin arpa.
  
--## 6. Yhdistyksen nimen kirjoittaminen
-+## 7. Yhdistyksen nimen kirjoittaminen
+-6. Yhdistyksen nimen kirjoittaminen
++7. Yhdistyksen nimen kirjoittaminen
  
- Yhdistyksen nimen kirjoittaa hallituksen puheenjohtaja, hallituksen oikeuttama henkilö, kukin yksin.
+ [nt Yhdistyksen nimen kirjoittaa hallituksen puheenjohtaja, hallituksen oikeuttama henkilö, kukin yksin.]
  
--## 7. Tilikausi
-+## 8. Tilikausi
+-7. Tilikausi
++8. Tilikausi
  
  Yhdistyksen tilikausi on kalenterivuosi.
  
--## 8. Yhdistyksen kokoukset
-+## 9. Yhdistyksen kokoukset
+-8. Yhdistyksen kokoukset
++9. Yhdistyksen kokoukset
  
  Yhdistyksen kokoukseen voidaan osallistua hallituksen tai yhdistyksen kokouksen niin päättäessä myös postitse taikka tietoliikenneyhteyden tai muun teknisen apuvälineen avulla kokouksen aikana tai ennen kokousta. Yhdistyksen kokous hyväksyy äänestys- ja vaalijärjestyksen.
  
-@@ -69,7 +77,7 @@
+@@ -65,14 +73,14 @@
  
  Äänten mennessä tasan ratkaisee kokouksen puheenjohtajan ääni, vaaleissa kuitenkin arpa.
  
--## 9. Yhdistyksen kokousten koollekutsuminen
-+## 10. Yhdistyksen kokousten koollekutsuminen
+-9. Yhdistyksen kokousten koollekutsuminen
++10. Yhdistyksen kokousten koollekutsuminen
  
  Hallituksen on kutsuttava yhdistyksen kokoukset koolle vähintään 7 vuorokautta ennen kokousta.
  
-@@ -77,7 +85,7 @@
- 
+ Kokouskutsu on lähetettävä jäsenille:
  - yhdistyksen verkkosivulla tai yhdistyksen käyttämän sosiaalisen median ryhmässä
  
--## 10. Vuosikokous
-+## 11. Vuosikokous
+-10. Vuosikokous
++11. Vuosikokous
  
  Yhdistyksen vuosikokouksessa käsitellään seuraavat asiat:
- 
-@@ -94,6 +102,6 @@
+ 1. kokouksen avaus
+@@ -88,6 +96,6 @@
  
  Mikäli yhdistyksen jäsen haluaa saada jonkin asian yhdistyksen vuosikokouksen käsiteltäväksi, on hänen ilmoitettava siitä kirjallisesti hallitukselle niin hyvissä ajoin, että asia voidaan sisällyttää kokouskutsuun.
  
--## 11. Sääntöjen muuttaminen ja yhdistyksen purkaminen
-+## 12. Sääntöjen muuttaminen ja yhdistyksen purkaminen
+-11. Sääntöjen muuttaminen ja yhdistyksen purkaminen
++12. Sääntöjen muuttaminen ja yhdistyksen purkaminen
  
  Päätös sääntöjen muuttamisesta ja yhdistyksen purkamisesta on tehtävä yhdistyksen kokouksessa vähintään kolmen neljäsosan (3/4) enemmistöllä annetuista äänistä. Kokouskutsussa on mainittava sääntöjen muuttamisesta tai yhdistyksen purkamisesta. Yhdistyksen purkautuessa käytetään yhdistyksen varat yhdistyksen tarkoituksen edistämiseen purkamisesta päättävän kokouksen määräämällä tavalla. Yhdistyksen tullessa lakkautetuksi käytetään sen varat samaan tarkoitukseen.

@@ -1,20 +1,20 @@
---- current.md	2025-12-10 23:28:18.482330362 +0200
-+++ 01.md	2025-12-14 18:47:57.827917231 +0200
-@@ -41,11 +41,11 @@
+--- current.md	2026-02-12 19:22:57.631331164 +0200
++++ 01.md	2026-02-12 19:34:23.744374435 +0200
+@@ -37,11 +37,11 @@
  
- ## 4. Liittymis- ja jäsenmaksu
+ 4. Liittymis- ja jäsenmaksu
  
 -Jäseniltä perittävän liittymismaksun ja vuotuisen jäsenmaksun suuruudesta päättää vuosikokous.
 +Jäseniltä perittävän liittymismaksun ja vuotuisen jäsenmaksun suuruudesta päättää syyskokous.
  
- ## 5. Hallitus
+ 5. Hallitus
  
 -Yhdistyksen asioita hoitaa hallitus, johon kuuluu vuosikokouksessa valitut puheenjohtaja ja 2 - 10 muuta varsinaista jäsentä sekä 0 - 10 varajäsentä.
 +Yhdistyksen asioita hoitaa hallitus, johon kuuluu syyskokouksessa valitut puheenjohtaja ja 2 - 10 muuta varsinaista jäsentä sekä 0 - 10 varajäsentä.
  
  Hallituksen toimikausi on kalenterivuosi.
  
-@@ -63,7 +63,9 @@
+@@ -59,7 +59,9 @@
  
  Yhdistyksen kokoukseen voidaan osallistua hallituksen tai yhdistyksen kokouksen niin päättäessä myös postitse taikka tietoliikenneyhteyden tai muun teknisen apuvälineen avulla kokouksen aikana tai ennen kokousta. Yhdistyksen kokous hyväksyy äänestys- ja vaalijärjestyksen.
  
@@ -25,19 +25,18 @@
  
  Yhdistyksen kokouksissa on jokaisella jäsenellä yksi ääni. Yhdistyksen kokouksen päätökseksi tulee, ellei säännöissä ole toisin määrätty, se mielipide, jota on kannattanut yli puolet annetuista äänistä.
  
-@@ -77,9 +79,9 @@
- 
+@@ -72,21 +74,28 @@
+ Kokouskutsu on lähetettävä jäsenille:
  - yhdistyksen verkkosivulla tai yhdistyksen käyttämän sosiaalisen median ryhmässä
  
--## 10. Vuosikokous
-+## 10. Varsinaiset kokoukset
+-10. Vuosikokous
++10. Varsinaiset kokoukset
  
 -Yhdistyksen vuosikokouksessa käsitellään seuraavat asiat:
 +Yhdistyksen kevätkokouksessa käsitellään seuraavat asiat:
- 
  1. kokouksen avaus
  2. valitaan kokouksen puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
-@@ -87,12 +89,20 @@
+ 3. todetaan kokouksen laillisuus ja päätösvaltaisuus
  4. hyväksytään kokouksen työjärjestys
  5. esitetään tilinpäätös, vuosikertomus ja toiminnantarkastajien/tilintarkastajien lausunto
  6. päätetään tilinpäätöksen vahvistamisesta ja vastuuvapauden myöntämisestä hallitukselle ja muille vastuuvelvollisille
@@ -48,7 +47,6 @@
 +7. käsitellään muut kokouskutsussa mainitut asiat.
 +
 +Yhdistyksen syyskokouksessa käsitellään seuraavat asiat:
-+
 +1. kokouksen avaus
 +2. valitaan kokouksen puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
 +3. todetaan kokouksen laillisuus ja päätösvaltaisuus
@@ -61,5 +59,5 @@
 -Mikäli yhdistyksen jäsen haluaa saada jonkin asian yhdistyksen vuosikokouksen käsiteltäväksi, on hänen ilmoitettava siitä kirjallisesti hallitukselle niin hyvissä ajoin, että asia voidaan sisällyttää kokouskutsuun.
 +Mikäli yhdistyksen jäsen haluaa saada jonkin asian yhdistyksen sääntömääräisen kokouksen käsiteltäväksi, on hänen ilmoitettava siitä kirjallisesti hallitukselle niin hyvissä ajoin, että asia voidaan sisällyttää kokouskutsuun.
  
- ## 11. Sääntöjen muuttaminen ja yhdistyksen purkaminen
+ 11. Sääntöjen muuttaminen ja yhdistyksen purkaminen
  

@@ -12,6 +12,7 @@
     pkgs.texlivePackages.latexdiff
     pkgs.poppler-utils
     pkgs.diffutils
+    pkgs.evince
   ];
 
   enterShell = ''
